@@ -10,7 +10,7 @@ CMake 3.1.0 or later
 First, we make a root directory of the build tree:
 
 ``` shell
-cd /path/to/mteval
+cd /path/to/busy4me
 mkdir build
 cd build
 ```
